@@ -1,0 +1,590 @@
+.firstpart{
+  background-color:#d6138f;
+  padding-bottom: 50px;
+}
+.nav-link{
+  color: #fff;
+  position: relative;
+  left:300px;
+}
+.nav-link:hover{
+  color:white;
+  text-decoration: underline;
+}
+.nav-item{
+  padding-left: 20px;
+}
+
+.topic{
+  width:300px;
+  height:200px;
+  position: absolute;
+  top: 50px;
+  left: 700px;
+}
+
+.section1pic{
+  width:550px;
+  height:550px;
+  position: relative;
+  left: 180PX;
+}
+.heading1firstpart{
+  position: absolute;
+  top: 250px;
+  left: 700px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color:#fff;
+}
+.heading2firstpart{
+  position: absolute;
+  top: 270px;
+  left: 700px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 29px;
+  color:#fff;
+}
+
+.insta{
+  position: absolute;
+  left:350px;
+  top:540px;
+  height: 40px;
+  width: 40px;
+}
+.facebook{
+  height: 40px;
+  width:40px;
+  position: absolute;
+  left: 400px;
+  top:540px;
+}
+.tictoc{
+  position: absolute;
+  left:450px;
+  height: 48px;
+  width:45px;
+  top: 540px;
+}
+.reviews{
+  position: absolute;
+  top:500px;
+  left:500px;
+  height: 90px;
+  width: 75px;
+}
+
+.btni{
+  position: absolute;
+  left: 700px;
+  top:350px;
+  width: 300px;
+  height:50px;
+  background-color:#2daabd;
+  font-family: 'Roboto', sans-serif;
+}
+.btnsec{
+  position: absolute;
+  left: 700px;
+  top:410px;
+  width: 300px;
+  height:50px;
+  background-color: #13d2f0;
+  font-family: 'Roboto', sans-serif;
+}
+.btnthird{
+  position: absolute;
+  left: 700px;
+  top:470px;
+  width: 300px;
+  height:50px;
+  background-color: #edca1a;
+  font-family: 'Roboto', sans-serif;
+}
+.dis{
+  position: absolute;
+  left: 700px;
+  top:550px;
+  width: 300px;
+}
+.dis:hover{
+  color: #d6138f;
+}
+.secondpart{
+  height: 1100px;
+     background: linear-gradient(60deg, #fdcd3b 19% , #2bbdb3 19% , #2bbdb3 27%,#fdcd3b 27%, #fdcd3b 35%,#2bbdb3 35%);
+}
+
+.rangoli{
+  position: absolute;
+  top: 700px;
+  right:850px;
+  width:600px;
+  height:600px;
+}
+
+.rangolilowerpart{
+  position: absolute;
+  top: 1100px;
+  right: 970px;
+  width:400px;
+  height:400px;
+}
+
+.longlolipop{
+position: absolute;
+top: 900px;
+right:810px;
+}
+.shortlolipop{
+  position: absolute;
+  top: 1250px;
+  right: 600px;
+}
+
+
+.heading1secondpart{
+  font-family: 'Roboto', sans-serif;
+  font-size: 42px;
+  color: white;
+  position: absolute;
+  right:200px;
+  top:800px;
+  margin: 0;
+}
+
+.heading2secondpart{
+  font-family: 'Roboto', sans-serif;
+  font-size: 57px;
+  color: white;
+  position: absolute;
+  right:200px;
+  top:850px;
+  margin:0;
+}
+
+.para1{
+  color: white;
+  position: absolute;
+  right:160px;
+  top:950px;
+  height:500px;
+  width:500px;
+  text-align: center;
+
+}
+.para2{
+  color: white;
+  position: absolute;
+  right:160px;
+  top:1100px;
+  height:500px;
+  width:500px;
+  text-align: center;
+}
+
+.watermelon{
+  position: absolute;
+  left:800px;
+  top:1300px;
+  height: 40px;
+  width: 30px;
+
+}
+
+.lolipop{
+  position: absolute;
+  left:850px;
+  top:1300px;
+  height: 40px;
+  width: 40px;
+}
+.cadbury{
+  position: absolute;
+  left:910px;
+  top:1300px;
+  height: 40px;
+  width: 30px;
+}
+
+.heading3secondpart{
+  color: white;
+  position: absolute;
+  right:170px;
+  top:1400px;
+  font-size: 25px;
+
+}
+.para3{
+  color: white;
+  position: absolute;
+  right:150px;
+  top:1450px;
+  height:500px;
+  width:500px;
+  text-align: center;
+}
+
+.anchor2ndpart{
+  color: white;
+  position: absolute;
+  right:210px;
+  top:1600px;
+}
+.anchor2ndpart:hover{
+  color:white;
+}
+.thirdpart{
+  height: 150px;
+}
+.grey{
+  color: #c3b7b7;
+  font-size: 20px;
+  font-style: oblique;
+  height: 60px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.narcity{
+  height:60px;
+  width:120px;
+  position: absolute;
+  left: 200px;
+}
+
+.losangeles{
+  height:50px;
+  width:190px;
+  position: absolute;
+  left: 90px;
+}
+
+.bazaar{
+  height:50px;
+  width:160px;
+  position: absolute;
+  left: 50px;
+}
+
+.thrill{
+  height:50px;
+  width:170px;
+  position: absolute;
+  right:150px;
+}
+
+.fourthpart{
+  background:linear-gradient(180deg, #4c7dd9 30% , #d742f5 85% );
+  height:612px;
+}
+
+.section4pic{
+  position: absolute;
+  top: 2000px;
+}
+
+.heading1fourthpart{
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top:2042px;
+  left:600px;
+}
+
+.para4{
+  color:white;
+  text-align: center;
+  position: absolute;
+  top: 2120px;
+  left: 600px;
+  height: 500px;
+  width: 400px;
+}
+
+.faq{
+  color:white;
+  font-size: 20px;
+  position: absolute;
+  top: 2240px;
+  left: 780px;
+}
+
+.city{
+  color:white;
+  font-size: 20px;
+  position: absolute;
+  top: 2275px;
+  left: 750px;
+  font-style: oblique;
+}
+
+.heart{
+  position: absolute;
+  top: 2350px;
+  left: 750px;
+  height: 100px;
+  width: 100px;
+}
+.anchor4thpart{
+  position: absolute;
+  top: 2450px;
+  left: 720px;
+  font-size: 30px;
+   color: white;
+}
+.anchor4thpart:hover{
+  text-decoration: underline;
+  color: white;
+}
+
+
+.closed{
+  color: white;
+  font-style: oblique;
+  position: absolute;
+  top:2490px;
+  left:780px;
+  font-size: 20px;
+
+}
+
+.fifthpart{
+  height: 280px;
+}
+.anchor5thpart{
+  font-style: oblique;
+  height: 60px;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+.follow{
+  color:#c3b7b7;
+}
+
+.follow:hover{
+  color:#c3b7b7;
+}
+
+.pic1{
+  position: absolute;
+  left:120px;
+}
+
+.pic2{
+  position: absolute;
+  left:80px;
+  width: 200px;
+  height: 170px;
+}
+
+.pic3{
+  position: absolute;
+  left:70px;
+}
+
+.pic4{
+  position: absolute;
+  left:35px;
+}
+
+.pic5{
+  position: absolute;
+  left:5px;
+}
+
+.hawaicandy{
+  position: absolute;
+  left:730px;
+  top: 2840px;
+  height: 470px;
+  width: 470px;
+}
+
+.sixthpart{
+  background:linear-gradient(110deg,#ffa5a5 68%,#0fd1db 68%, #0fd1db 82%,#ffa5a5 82%, #ffa5a5 90%, #0fd1db 90%);
+  height: 450px;
+}
+
+.ticket{
+  font-size: 35px;
+  color: white;
+  position: absolute;
+  left:300px;
+  top: 2980px;
+}
+
+.para5{
+  height: 300px;
+  width:450px;
+  text-align: center;
+  position: absolute;
+  left:230px;
+  top: 3050px;
+  color: white;
+}
+
+.para6{
+  height: 300px;
+  width:450px;
+  text-align: center;
+  position: absolute;
+  left:230px;
+  top: 3150px;
+  color: white;
+}
+
+
+.seventhpart{
+  background:linear-gradient(130deg, yellow 15%, #ff7c0a 15%, #ff7c0a 25%, yellow 25% ,yellow 35%,#ff7c0a 35%);
+  height: 480px;
+}
+.section7pic{
+  height:400px;
+  width: 250px;
+  position: absolute;
+  top: 3400px;
+  left:170px;
+}
+
+.Contact{
+  position: absolute;
+  top: 3400px;
+  left:520px;
+  color: white;
+  font-size: 35px;
+}
+
+.gk{
+  position: absolute;
+  top: 3475px;
+  left:550px;
+  color: white;
+  font-size: 20px;
+}
+
+.firstanchor6thpart{
+  position: absolute;
+  top: 3500px;
+  left:550px;
+  color: white;
+}
+
+.secondanchor6thpart{
+  position: absolute;
+  top: 3525px;
+  left:565px;
+  color:white;
+  text-decoration: underline;
+}
+.secondanchor6thpart:hover{
+  color: white;
+}
+
+
+.eighthpart{
+  background-color: #f56a79;
+  height:590px;
+}
+.section8pic{
+  position: absolute;
+  top: 3800px;
+  left:760px;
+  height:600px;
+}
+
+.heading1eighthpart{
+  position: absolute;
+    top: 3850px;
+    left:400px;
+    font-size: 33px;
+    color:white;
+}
+
+.para7{
+  position: absolute;
+  top: 3925px;
+  left:280px;
+  text-align: center;
+  height: 100px;
+  width: 450px;
+  color:white;
+}
+
+.para8{
+  position: absolute;
+  top: 4040px;
+  left:280px;
+  text-align: center;
+  height: 100px;
+  width: 450px;
+  color:white;
+}
+.time{
+  position: absolute;
+  top: 4150px;
+  left:400px;
+  color:white;
+}
+.back{
+  position: absolute;
+  top: 4170px;
+  left:450px;
+  color:white;
+}
+
+.lastpart{
+  background-color: #ffa5a5;
+  height: 180px;
+}
+
+.instagram{
+  position: absolute;
+  top: 4450px;
+  left:500px;
+  height: 40px;
+  width: 40px;
+}
+
+.face{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  top: 4450px;
+  left:550px;
+}
+
+.tic{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  top: 4445px;
+  left:600px;
+}
+
+.message{
+  height: 35px;
+  width: 45px;
+  position: absolute;
+  top: 4453px;
+  left:662px;
+}
+.copyright{
+  position: absolute;
+  top: 4500px;
+  left:485px;
+  color: white;
+}
+
+.privacy{
+  position: absolute;
+  top: 4519px;
+  left:489px;
+  color: white;
+}
+.privacy:hover{
+  color: white;
+}
